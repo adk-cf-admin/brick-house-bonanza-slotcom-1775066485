@@ -1,0 +1,19 @@
+{
+  "name": "Brick House Bonanza",
+  "short_name": "Brick House Bonanza",
+  "theme_color": "",
+  "background_color": "#255500",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1775065745-48189-0-1.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}

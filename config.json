@@ -1,0 +1,216 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#255500",
+            "lang-select-color": "#222829",
+            "bg-light": "#255500",
+            "welcome-bonus-bg": "#255500",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#378200",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#018CAB",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#841514",
+            "yellow": "#841514",
+            "yellow-button": "#018CAB",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#255500",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#ffffff",
+            "providers-back": "#255500",
+            "faq-label": "#255500",
+            "bg-footer": "#255500",
+            "copyright": "#e7e7d5",
+            "starColor": "#841514",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5541"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5542",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Brick House Bonanza Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5543",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Brick House Bonanza"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-en",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Brick House Bonanza",
+                    "title": "Brick House Bonanza Slot | Free Spins & 10,000x Win",
+                    "description": "Play Brick House Bonanza by Pragmatic Play — 96.5% RTP, 10,000x max win, 4 jackpots & thrilling Free Spins. Spin the bonus wheel and win big today!",
+                    "canonical": "brick-house-bonanza-slot.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5544",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "brick-house-bonanza-slot.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5545"
+                },
+                "hero": {
+                    "title": "Play Brick House Bonanza — Up to 10,000x Your Bet",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5546",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": -5,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5547",
+                    "mobileImageSizeModifier": 0,
+                    "mobileImageYModifier": 1,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "Looking for a feature-rich video slot with real winning potential? Brick House Bonanza by Pragmatic Play offers 96.5% RTP, 10,000x max win, four jackpots, and industry-leading free spins mechanics. Here's what makes it exceptional:",
+                    "items": [
+                        "Certified 96.5% RTP with three operator settings: 94.5%, 95.5%, 96.5%",
+                        "Max win of 10,000x the stake powered by Pragmatic Play's math engine",
+                        "Four jackpots: Mini (12x), Minor (60x), Major (500x), Grand (5,000x)",
+                        "Hit frequency of 27.93% — a winning spin roughly every 3.58 rounds",
+                        "243 betways on a 5x3 grid, bets from $0.20 to $240 per spin",
+                        "Buy Feature available: enter Free Spins for 100x or Wheel for 200x"
+                    ],
+                    "advantagesAfterText": "Brick House Bonanza is fully certified by independent auditors and powered by Pragmatic Play's HTML5 technology for seamless play on all devices. Join thousands of players already spinning for the Grand Jackpot of 5,000x.",
+                    "knowMore": "Know more",
+                    "appTitle": "Brick House Bonanza App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5548",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Brick House Bonanza App",
+                    "mobileGooglePlayImageTitle": "Brick House Bonanza App",
+                    "mobileIosImageTitle": "Brick House Bonanza App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About Brick House Bonanza Slot",
+                        "description1": "We bring you Brick House Bonanza — a Pragmatic Play masterpiece inspired by The Three Little Pigs fairy tale. With 243 ways to win, medium-high variance, and certified 96.5% RTP, this video slot delivers premium entertainment for real money players.",
+                        "items": [
+                            "Released by Pragmatic Play with certified 96.5% RTP",
+                            "Expanded to 57 countries across global online casino markets",
+                            "Features four jackpots and innovative house-building free spins",
+                            "HTML5 technology ensures full mobile and desktop compatibility"
+                        ],
+                        "description2": "We offer Brick House Bonanza with full transparency: RTP is independently certified, and the RNG is tested for fair outcomes on every spin. SSL 256-bit encryption protects all player sessions and transactions on our platform at all times.",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5549",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "We keep expanding our portfolio with Pragmatic Play hits like Brick House Bonanza. Try it now with our welcome bonus and discover why this fairy tale slot is loved worldwide. Spin today and chase that Grand Jackpot of 5,000x!"
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Brick House Bonanza Features Guide",
+                        "description": "<h2>Brick House Bonanza Slot Features — Everything You Need to Know<\/h2>\n\n<p>Brick House Bonanza is a video slot developed by Pragmatic Play, one of the most respected software providers in the online gambling industry. Built on a classic 5x3 reel matrix with 243 ways to win, this fairy tale-inspired slot machine takes the beloved story of The Three Little Pigs and transforms it into an action-packed gaming experience. The slot delivers a medium-high variance rating of 4 out of 5, a certified Return to Player of 96.5%, and a staggering maximum win potential of 10,000x the stake — making it a top choice for players seeking both entertainment and serious winning potential.<\/p>\n\n<p>What sets this online slot apart from the competition is its uniquely layered feature structure. Instead of a single bonus round, Brick House Bonanza combines a house-building Free Spins mechanic, a multi-prize Bonus Wheel, four fixed jackpots, and a Buy Feature — all working together to create a rich, multi-dimensional gameplay experience. Whether you're a casual spinner or a high-stakes player, the game accommodates all betting styles with minimum bets starting at just $0.20 and maximum bets reaching $240 per spin.<\/p>\n\n<h3>Free Spins Feature — The Heart of the Game<\/h3>\n\n<p>The Free Spins feature is the standout mechanic in Brick House Bonanza and the primary driver of its 10,000x max win potential. To trigger it, players need 6 or more Piggy Bank Scatter symbols to land anywhere on the reels during a base game spin. This awards 6 initial free spins, and before the round begins, all positions containing triggering Scatter symbols are marked with a straw square — laying the groundwork for the game's signature house-building mechanic.<\/p>\n\n<p>During the free spins round, each new Scatter that lands marks its position on the reels. If a Scatter lands on a position already marked with a straw square, it upgrades to a wood square. Land another Scatter on a wood square, and it upgrades again — this time to a brick square, the most valuable material. Additionally, every combination of 3 or more Scatter symbols during the free games awards +1 extra spin, extending the bonus round and giving players more opportunities to fill the board with high-value brick positions.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Straw Houses (lowest tier):<\/strong> Reveal random money prizes of 0.6x, 1x, or 1.5x the bet. These form the base layer of every triggered free spins round and help accumulate smaller wins while the higher-value positions develop.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Wood Houses (mid tier):<\/strong> Upgrade the reward potential significantly, revealing prizes of 2x, 3x, 4x, or 6x the bet — plus access to the Mini Jackpot (12x), double Mini (24x), or Minor Jackpot (60x). A key milestone in building toward the biggest prizes.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Brick Houses (highest tier):<\/strong> The premium outcome, revealing prizes of 10x, 15x, 20x, 100x, or 250x the bet, alongside access to all four jackpots: Mini (12x), Minor (60x), Major (500x), and the Grand Jackpot worth 5,000x the stake — the single largest award in the game.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Full Board Bonus:<\/strong> If all 15 reel positions are marked with brick squares, no further upgrades occur. Instead, every subsequent Scatter landing on the board pays a fixed reward of 10x the bet — a powerful guaranteed payout mechanism for fully loaded boards.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>End-of-Round Reveal:<\/strong> When all free spins are exhausted, the Wolf character appears and blows the houses down, revealing the hidden cash prizes beneath. All prizes are summed and paid as a single lump sum — creating a climactic and highly rewarding conclusion to each bonus round.<\/li>\n<\/ul>\n\n<h3>Bonus Wheel — Four Ways to Win Instantly<\/h3>\n\n<p>Separate from the Free Spins trigger, the Bonus Wheel activates when 3 or more Bonus symbols land simultaneously anywhere on the reels during a base game spin. This awards one spin on the bonus wheel, which can deliver one of four distinct prize outcomes. The Bonus Wheel is an independent feature, meaning it adds another layer of win potential on top of the base game and free spins mechanic — making every spin feel like it carries meaningful bonus potential.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Random Jackpot:<\/strong> Awards one of the four fixed jackpots directly — Mini (12x), Minor (60x), Major (500x), or Grand (5,000x) — without needing to enter the free spins round. The most direct path to the game's biggest prizes.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Mega Bank Feature:<\/strong> Awards a single special spin with oversized 2x2, 3x3, and even 5x3-sized Scatter symbols on the reels. The sheer size of these Mega Scatters makes it virtually guaranteed to trigger the free spins feature immediately, often with a heavily pre-loaded board.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Windmill Feature:<\/strong> The triggering Bonus symbols roll across the reels from right to left, marking and upgrading every reel position they pass through before launching the free spins round. This creates a heavily pre-marked board, dramatically boosting the value of the upcoming bonus round.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Brick House Feature:<\/strong> The triggering Bonus symbols convert their positions directly to the highest-value brick squares before launching free spins. Additionally, all Scatter symbols that land during the subsequent free games also mark their positions as brick — making this the most powerful wheel outcome for maximising the end-of-round payout.<\/li>\n<\/ul>\n\n<h3>Four Fixed Jackpots — What Are the Prizes?<\/h3>\n\n<p>Brick House Bonanza includes four fixed jackpots that appear throughout both the Free Spins feature and the Bonus Wheel. Unlike progressive jackpots that fluctuate based on player activity, these are fixed-value awards that remain constant, providing transparent and predictable win targets. The jackpot structure is directly tied to your current bet size, meaning higher stakes players can target proportionally larger cash prizes.<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px;\">\n  <thead>\n    <tr style=\"background-color: #0b8aae;\">\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Jackpot<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Multiplier<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Source<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #275709;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Mini<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">12x bet<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Wood \/ Brick \/ Wheel<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1e4207;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Minor<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">60x bet<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Wood \/ Brick \/ Wheel<\/td>\n    <\/tr>\n    <tr style=\"background-color: #275709;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Major<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">500x bet<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Brick \/ Wheel only<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1e4207;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Grand<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">5,000x bet<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Brick \/ Wheel only<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n<h3>Buy Feature — Skip Straight to the Action<\/h3>\n\n<p>For players who prefer to go directly to the bonus rounds without waiting for organic triggers, Brick House Bonanza offers a Feature Buy option. This is particularly popular among experienced online slot players who want to maximise their time in the high-value bonus states. Two options are available, each with a different entry price and target feature.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Free Spins Buy (100x the bet):<\/strong> Triggers a specially engineered spin containing 6 to 15 Scatter symbols, guaranteeing immediate activation of the Free Spins feature. At a $1 bet, this costs $100; at $5 bet, it costs $500. The pre-loaded Scatters ensure the board starts populated with house markers from the very first spin.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Bonus Wheel Buy (200x the bet):<\/strong> Awards one direct spin on the Bonus Wheel, bypassing the need for 3+ Bonus symbols to land organically. This gives access to all four Bonus Wheel outcomes — including the Grand Jackpot path via Random Jackpot and the powerful Brick House Feature — at a premium price point.<\/li>\n<\/ul>\n\n<h3>Theme, Visuals & Sound Design<\/h3>\n\n<p>Pragmatic Play's creative team has crafted a vibrant, cartoon-style visual presentation that faithfully retells The Three Little Pigs story. The reels feature high-quality animated characters including the three pigs, the Big Bad Wolf, and iconic building materials — straw, wood, and brick — that tie directly into the gameplay mechanics rather than just serving as aesthetic decoration. This integration of theme and feature design is one of the slot's strongest qualities, making every bonus round feel narratively meaningful.<\/p>\n\n<p>The sound design complements the visuals perfectly, with a playful fairy tale soundtrack that builds in intensity during the free spins round. The Wolf's appearance at the end of each bonus round is accompanied by a satisfying animation sequence, creating a moment of genuine excitement as the houses collapse and prizes are revealed. Built on HTML5 technology with a lean 10 MB game file, Brick House Bonanza loads quickly on both desktop and mobile devices, offering a seamless experience across all screen sizes.<\/p>"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "RTP, Variance & Betting Guide",
+                        "description": "<h2>Brick House Bonanza RTP, Variance & Complete Betting Guide<\/h2>\n\n<p>Understanding the mathematics behind Brick House Bonanza is essential for any player looking to approach this online slot strategically. Developed by Pragmatic Play — a provider renowned for transparent math models and independently certified Return to Player figures — this video slot offers a well-balanced combination of hit frequency, volatility, and max win potential. Whether you're a low-stakes recreational spinner or a high-roller chasing jackpots, the game's flexible betting range and three-tier RTP structure make it adaptable to a wide range of playing styles and bankroll sizes.<\/p>\n\n<h3>Return to Player (RTP) — Three Settings Explained<\/h3>\n\n<p>One of the most technically notable aspects of Brick House Bonanza is its three-tiered RTP configuration, a Pragmatic Play standard feature that allows casino operators to select from different payout settings. This means that the RTP you experience can vary depending on which online casino platform you play at. As a player, it's important to check which RTP setting is active on your chosen platform.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>96.5% RTP (Standard Setting):<\/strong> The highest and most player-favourable configuration. For every $100 wagered over the long term, the game is mathematically expected to return $96.50 in prizes. This is the setting displayed as the headline RTP on most review sites and is generally the most widely offered configuration at regulated online casinos.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>95.5% RTP (Mid Setting):<\/strong> A slightly reduced configuration that returns $95.50 per $100 wagered over statistical long-run play. This remains above the industry average RTP benchmark of 95% and provides a fair gaming experience. Players at casinos running this setting will notice marginally longer losing streaks between wins compared to the 96.5% version.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>94.5% RTP (Low Setting):<\/strong> The minimum operator configuration. While still within acceptable industry standards, players should be aware that this setting extends the house edge. Most licensed and reputable online casinos default to the 96.5% setting to remain competitive, but the 94.5% option exists for operators in certain regulated markets.<\/li>\n<\/ul>\n\n<h3>Volatility & Hit Frequency — What to Expect<\/h3>\n\n<p>Brick House Bonanza carries a medium-to-high variance rating of 4 out of 5 as classified by Pragmatic Play. This means the game tends to produce less frequent but higher-value wins compared to low-volatility slots. However, what makes Brick House Bonanza particularly interesting is its unusually strong hit frequency figure of 27.93% — meaning a winning outcome occurs approximately once every 3.58 spins. For a medium-high variance slot, this is a notably high win rate, helping to sustain bankroll during the grind between major bonus triggers.<\/p>\n\n<p>It's important to distinguish between base game hit frequency and feature frequency. While a win of some kind lands roughly 27.93% of the time, the bonus features — Free Spins and Bonus Wheel — trigger less frequently, approximately every 76.83 spins on average. This is a standard trigger rate for a feature-rich slot of this volatility class, and it means that while minor wins keep the session engaging, the truly large payouts are concentrated in the bonus rounds where the house-building mechanic, jackpots, and Bonus Wheel rewards come into play.<\/p>\n\n<h3>Betting Range & Stakes Guide<\/h3>\n\n<p>Brick House Bonanza accommodates a wide spectrum of players with its flexible betting structure. The minimum bet of $0.20 per spin makes it accessible to casual players and those managing smaller bankrolls, while the maximum stake of $240 per spin caters to high-rollers seeking proportionally larger jackpot prizes. Since all jackpots and feature prizes are expressed as bet multipliers, higher-stakes play directly translates to larger absolute prize values.<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px;\">\n  <thead>\n    <tr style=\"background-color: #0b8aae;\">\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Bet Level<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Spin Cost<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Grand Jackpot<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #275709;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Minimum<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">$0.20<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">$1,000<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1e4207;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Low<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">$0.50<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">$2,500<\/td>\n    <\/tr>\n    <tr style=\"background-color: #275709;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Mid<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">$1.00<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">$5,000<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1e4207;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>High<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">$10.00<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">$50,000<\/td>\n    <\/tr>\n    <tr style=\"background-color: #275709;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Maximum<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">$240<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">$1,200,000<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n\n<h3>Base Game Paytable & Symbol Values<\/h3>\n\n<p>In the base game, Brick House Bonanza uses a standard 5x3 reel grid with 243 fixed ways to win. Wins are formed by landing 3 or more matching symbols from left to right across adjacent reels, starting from reel 1. The base game paytable alone offers modest returns — five-symbol combinations pay between 0.15x and 2x the bet — reinforcing that the slot's true earning potential lies in its bonus features rather than the base reel grid. This is a deliberate design choice by Pragmatic Play, common in high-volatility feature-driven slots, where base game wins serve primarily to sustain the session bankroll while players wait for the high-value bonus triggers.<\/p>\n\n<p>Wild symbols substitute for all regular paying symbols and contribute to completing winning combinations across the 243 ways. The Piggy Bank Scatter symbols and Bonus Wheel symbols do not substitute for other symbols but instead trigger their respective bonus features. Understanding the role of each symbol type is key to appreciating how wins accumulate across both the base game and the bonus states.<\/p>\n\n<h3>Mobile Compatibility & Technical Specifications<\/h3>\n\n<p>Brick House Bonanza is built on HTML5 technology with a compact 10 MB file size, ensuring fast load times and smooth performance across all modern devices and browsers. Whether playing on a desktop PC, laptop, tablet, or smartphone — Android or iOS — the game adapts seamlessly to the screen size without compromising the visual quality or feature functionality. All bonus rounds, including the Bonus Wheel spin and the end-of-round Wolf reveal animation, run flawlessly on mobile, making it a truly cross-platform gaming experience.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Technology:<\/strong> JavaScript + HTML5, compatible with all major browsers (Chrome, Firefox, Safari, Edge) without requiring any plugin or app download for instant play.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Game Size:<\/strong> 10 MB — one of the lightest builds for a feature-rich slot of this complexity, ensuring fast loading even on slower mobile connections.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Layout:<\/strong> 5x3 reel matrix with 243 fixed betways, no payline management required — all ways are permanently active on every spin.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Bet Adjustment:<\/strong> Spin value is adjusted in preset increments from $0.20 to $240, with the current total bet always clearly displayed in the game interface before each spin.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Autoplay & Turbo:<\/strong> Standard Pragmatic Play autoplay functionality available with configurable win\/loss limits and single-win limit stops for responsible gaming compliance.<\/li>\n<\/ul>\n\n<h3>Is Brick House Bonanza Worth Playing?<\/h3>\n\n<p>For players who enjoy feature-rich video slots with meaningful narrative design and layered bonus mechanics, Brick House Bonanza delivers exceptional value. The 96.5% RTP sits above the industry average, the hit frequency of 27.93% ensures regular small wins to sustain sessions, and the 10,000x max win via the Grand Jackpot (5,000x) combined with the Brick House end-of-round reveal gives every free spins round a genuinely climactic quality. Pragmatic Play has crafted one of the most thoughtfully designed fairy tale slots in the current market — balancing accessible gameplay with serious high-stakes potential.<\/p>"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "What is the RTP of Brick House Bonanza slot?",
+                            "answer": "Brick House Bonanza has a certified RTP of 96.5% in its standard configuration. Pragmatic Play offers three RTP settings — 94.5%, 95.5%, and 96.5% — with the highest setting available at most licensed online casinos. Always verify the active RTP on your platform before playing."
+                        },
+                        {
+                            "title": "How do I trigger Free Spins in Brick House Bonanza?",
+                            "answer": "Free Spins activate when 6 or more Piggy Bank Scatter symbols land anywhere on the reels in a single base game spin. You receive 6 initial spins, and each additional group of 3+ Scatters during the round adds +1 extra spin. The feature ends with a Wolf reveal that uncovers all hidden prizes."
+                        },
+                        {
+                            "title": "What is the maximum win in Brick House Bonanza?",
+                            "answer": "The maximum win in Brick House Bonanza is 10,000x the stake, achievable through the Free Spins feature by filling the board with brick-marked positions. The Grand Jackpot alone pays 5,000x the bet and can be won via Brick Houses or the Bonus Wheel's Random Jackpot outcome."
+                        },
+                        {
+                            "title": "How does the Bonus Wheel work in this slot?",
+                            "answer": "The Bonus Wheel triggers when 3 or more Bonus symbols land simultaneously in the base game. One wheel spin is awarded, and it can deliver four outcomes: Random Jackpot (Mini to Grand), Mega Bank Feature, Windmill Feature, or Brick House Feature — each leading to high-value bonus states."
+                        },
+                        {
+                            "title": "Can I buy the Free Spins feature directly?",
+                            "answer": "Yes. Brick House Bonanza includes a Buy Feature option. You can purchase Free Spins for 100x the current bet, which triggers a guaranteed Scatter-loaded spin. The Bonus Wheel can be purchased for 200x the bet. Buy Feature may not be available in all jurisdictions due to local regulations."
+                        },
+                        {
+                            "title": "What variance does Brick House Bonanza have?",
+                            "answer": "Brick House Bonanza is a medium-high variance slot, rated 4 out of 5 by Pragmatic Play. This means wins are less frequent but larger when they hit. The hit frequency of 27.93% — one win every ~3.58 spins — is notably high for this volatility class, helping sustain bankroll between features."
+                        },
+                        {
+                            "title": "Is Brick House Bonanza available on mobile devices?",
+                            "answer": "Yes. Brick House Bonanza is built on HTML5 technology and is fully optimised for mobile play on iOS and Android devices. The 10 MB game file loads quickly even on mobile connections, and all features — including the Bonus Wheel and Free Spins reveal — work seamlessly on touchscreen devices."
+                        },
+                        {
+                            "title": "Who developed Brick House Bonanza and when was it released?",
+                            "answer": "Brick House Bonanza was developed by Pragmatic Play, one of the leading slot providers in the online casino industry. The slot was officially released on January 6, with wide availability rolling out on January 23. It is currently available at over 300 licensed online casinos across 57 countries."
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
